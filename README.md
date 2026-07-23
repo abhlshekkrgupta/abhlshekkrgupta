@@ -1,6 +1,6 @@
 <div align="center">
 
-# Abhishek Gupta
+# Abhishek K. Gupta
 
 ### Fortune 50 DS Consultant • GenAI & Computer Vision • $2B+ Client Impact
 
@@ -38,8 +38,6 @@ measurable revenue impact and cost reduction.
 
 ---
 
-
----
 
 ## 🛠️ Technology Stack
 
