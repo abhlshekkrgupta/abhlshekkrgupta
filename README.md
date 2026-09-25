@@ -2,7 +2,7 @@
 
 # Abhishek K. Gupta
 
-### Fortune 50 DS Consultant • GenAI & Computer Vision • $2B+ Client Impact
+### DS Consultant • GenAI • Agentic AI
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=google-chrome)](https://abhlshekkgupta.web.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-yellow?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abhishek-k-gupta-ai-ml-datascience/)
