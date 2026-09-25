@@ -10,14 +10,16 @@
 
 </div>
 
----
 
+<!--
+
+---
 ## 📊 At a Glance
 
 > **3+ years** delivering production AI systems for **Fortune 50 clients**  
 > **$2B+** in quantified client impact through GenAI, Computer Vision, AI/ML and MLOps  
 > **15+** production deployments serving **10M+ users** collectively  
-> **Specializing in:** Enterprise RAG • Multi-Agent Systems • Document AI • Production MLOps
+> **Specializing in:** Enterprise RAG • Multi-Agent Systems • Document AI • Production MLOps -->
 
 ---
 
